@@ -1,5 +1,8 @@
 ### Gradle template
 .gradle/
+
+
+
 build/
 
 ### Java template
